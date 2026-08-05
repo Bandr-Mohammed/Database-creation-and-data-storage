@@ -18,6 +18,10 @@ Then going to the database via `phpMyAdmin` to create a table and assign the num
 
 Like so:
 
-![Image ALT]()
+![Image ALT](https://github.com/Bandr-Mohammed/Database-creation-and-data-storage/blob/main/Screenshot%20(27).png?raw=true)
 
-![Image ALT]()
+![Image ALT](https://github.com/Bandr-Mohammed/Database-creation-and-data-storage/blob/main/Screenshot%20(28).png?raw=true)
+Naming the table `users` and giving it three columns.
+
+![Image ALT](https://github.com/Bandr-Mohammed/Database-creation-and-data-storage/blob/main/Screenshot%20(29).png?raw=true)
+First column for the ID (INT, primary key), second column for the name (VARCHAR), and third column is for the age (INT)
