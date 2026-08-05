@@ -29,3 +29,10 @@ First column for the ID (INT, primary key), second column for the name (VARCHAR)
 Now the data base is ready to receive and store data.
 
 ![Image ALT](https://github.com/Bandr-Mohammed/Database-creation-and-data-storage/blob/main/Screenshot%20(30).png?raw=true)
+
+Creating an HTML web page for inserting data to the database through it.
+
+Like so:
+
+![Image ALT]
+
