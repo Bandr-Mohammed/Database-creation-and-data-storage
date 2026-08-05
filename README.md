@@ -23,11 +23,9 @@ Like so:
 ![Image ALT](https://github.com/Bandr-Mohammed/Database-creation-and-data-storage/blob/main/Screenshot%20(28).png?raw=true)
 Naming the table `users` and giving it three columns.
 
-
-
-
-
-
-
 ![Image ALT](https://github.com/Bandr-Mohammed/Database-creation-and-data-storage/blob/main/Screenshot%20(29).png?raw=true)
 First column for the ID (INT, primary key), second column for the name (VARCHAR), and third column is for the age (INT)
+
+Now the data base is ready to receive and store data.
+
+![Image ALT](https://github.com/Bandr-Mohammed/Database-creation-and-data-storage/blob/main/Screenshot%20(30).png?raw=true)
