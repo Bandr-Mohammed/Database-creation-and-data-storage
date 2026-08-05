@@ -12,3 +12,12 @@ Like so:
 ![Image ALT](https://github.com/Bandr-Mohammed/Database-creation-and-data-storage/blob/main/Screenshot%20(25).png?raw=true)
 
 ![Image ALT](https://github.com/Bandr-Mohammed/Database-creation-and-data-storage/blob/main/Screenshot%20(26).png?raw=true)
+
+
+Then going to the database via `phpMyAdmin` to create a table and assign the number and type of columns.
+
+Like so:
+
+![Image ALT]()
+
+![Image ALT]()
