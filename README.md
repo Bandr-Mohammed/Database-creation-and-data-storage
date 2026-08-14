@@ -59,3 +59,11 @@ Then uploading the files through   `infinityfree`'s file manager like so:
 ![Image ALT](https://github.com/Bandr-Mohammed/Database-creation-and-data-storage/blob/main/Screenshot%20(35).png?raw=true)
 
 ![Image ALT](https://github.com/Bandr-Mohammed/Database-creation-and-data-storage/blob/main/Screenshot%20(36).png?raw=true)
+
+And just like so, the webpage can get data and insert it into the data base while displaying the content of the table below the form.
+
+![Image ALT]()
+
+![Image ALT]()
+
+![Image ALT]()
