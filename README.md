@@ -52,10 +52,10 @@ For bounding the database we need to write another HTML code and convert it to a
 
 Then uploading the files through   `infinityfree`'s file manager like so:
 
-![Image ALT]()
+![Image ALT](https://github.com/Bandr-Mohammed/Database-creation-and-data-storage/blob/main/Screenshot%20(33).png?raw=true)
 
-![Image ALT]()
+![Image ALT](https://github.com/Bandr-Mohammed/Database-creation-and-data-storage/blob/main/Screenshot%20(34).png?raw=true)
 
-![Image ALT]()
+![Image ALT](https://github.com/Bandr-Mohammed/Database-creation-and-data-storage/blob/main/Screenshot%20(35).png?raw=true)
 
-![Image ALT]()
+![Image ALT](https://github.com/Bandr-Mohammed/Database-creation-and-data-storage/blob/main/Screenshot%20(36).png?raw=true)
