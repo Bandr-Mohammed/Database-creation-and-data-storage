@@ -30,11 +30,32 @@ Now the data base is ready to receive and store data.
 
 ![Image ALT](https://github.com/Bandr-Mohammed/Database-creation-and-data-storage/blob/main/Screenshot%20(30).png?raw=true)
 
+
+
+## Step two: Webpage creation and database bounding
+
 Creating an HTML web page for displaying and inserting data to the database through it. However, it must be uploaded as a php file.
 
--The HTML code that has been converted to a php file is uploaded in this repository-
+- The webpage HTML code that has been converted to a php file is uploaded in this repository -
 
-make sure the name of the file is `index.php` when uploading it.
+1- Make sure to put the appropriate `server name`, `username`, `password`, and `dbname` that you get from `infinityfree`.
+3- Edit the name of columns in the code.
+2- Make sure the name of the file is `index.php` when uploading it.
 
-helllo
+For bounding the database we need to write another HTML code and convert it to a php file.
 
+- The database bounding HTML code that has been converted to a php file is uploaded in this repository and it is `b.php` -
+
+1- Make sure to put the appropriate `server name`, `username`, `password`, and `dbname` that you get from `infinityfree`.
+2-Edit the name of columns in the code.
+3- Add each column as a variable.
+
+Then uploading the files through   `infinityfree`'s file manager like so:
+
+![Image ALT]()
+
+![Image ALT]()
+
+![Image ALT]()
+
+![Image ALT]()
