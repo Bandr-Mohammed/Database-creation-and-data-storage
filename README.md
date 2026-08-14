@@ -30,9 +30,9 @@ Now the data base is ready to receive and store data.
 
 ![Image ALT](https://github.com/Bandr-Mohammed/Database-creation-and-data-storage/blob/main/Screenshot%20(30).png?raw=true)
 
-Creating an HTML web page for inserting data to the database through it.
+Creating an HTML web page for displaying and inserting data to the database through it. However, it must be uploaded as a php file.
 
-Like so:
+-The HTML code that has been converted to a php file is uploaded in this repository-
 
-![Image ALT]
+make sure the name of the file is `index.php` when uploading it.
 
