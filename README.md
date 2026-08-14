@@ -71,3 +71,5 @@ And just like so, the webpage can get data and insert it into the data base whil
 ![Image ALT](https://github.com/Bandr-Mohammed/Database-creation-and-data-storage/blob/main/Screenshot%20(40).png?raw=true)
 
 ![Image ALT](https://github.com/Bandr-Mohammed/Database-creation-and-data-storage/blob/main/Screenshot%20(41).png?raw=true)
+
+`Note: the ID is 10 because i made previous records and deleted it`
