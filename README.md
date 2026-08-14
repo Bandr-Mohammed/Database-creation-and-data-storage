@@ -67,3 +67,7 @@ And just like so, the webpage can get data and insert it into the data base whil
 ![Image ALT]()
 
 ![Image ALT]()
+
+![Image ALT]()
+
+![Image ALT]()
